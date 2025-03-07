@@ -1,0 +1,5 @@
+defaultProject: horizontal-data-453015-v4
+defaultLocation: europe-west1
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
